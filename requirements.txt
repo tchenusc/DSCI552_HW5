@@ -1,0 +1,6 @@
+pandas
+seaborn
+matplotlib
+scikit-learn
+numpy
+xgboost==1.7.6
